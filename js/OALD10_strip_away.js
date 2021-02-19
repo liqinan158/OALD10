@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><html><head></head><body><div class="oald" id="entryContent"><div class="entry" hclass="entry" hlength="10" htag="section" id="strip-away" idm_id="000057892" sk="stripaway: :0" sum="108"><div class="top-container"><div class="top-g" id="stripaway_topg_1"><div class="webtop"><h1 class="headword" hclass="headword" htag="h1" id="stripaway_h_1">strip away</h1> <span class="pos" hclass="pos" htag="span">phrasal verb</span></div></div></div></div></div></body></html>`;
+window.parent.postMessage(custom_content,'*');

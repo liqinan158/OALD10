@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><html><head></head><body><div class="oald" id="entryContent"><div class="entry" hclass="entry" hlength="8" htag="section" id="train-at" idm_id="000061684" sk="trainat: :0" sum="96"><div class="top-container"><div class="top-g" id="trainat_topg_1"><div class="webtop"><h1 class="headword" hclass="headword" htag="h1" id="trainat_h_1">train at</h1> <span class="pos" hclass="pos" htag="span">phrasal verb</span></div></div></div></div></div></body></html>`;
+window.parent.postMessage(custom_content,'*');
